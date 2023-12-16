@@ -1,6 +1,6 @@
 # Contribution Guidelines
 
-Thank you for your interest in contributing to Routes Spring Boot Reactive Starter!
+Thank you for your interest in contributing to **Routes Spring Boot Reactive Starter**!
 
 **Project Status: Experimental and Under Development**
 
